@@ -1,7 +1,7 @@
 const freelances = [
 	{
 		id: '1',
-		name: 'Julien Brun',
+		name: 'Hervé Kongo',
 		job: 'Développeur mobile',
 		picture: 'https://fierce-taiga-87212.herokuapp.com/images/4.jpeg',
 		skills: ['React Native'],
@@ -41,7 +41,7 @@ const freelances = [
 	},
 	{
 		id: '5',
-		name: 'Clément Rolland',
+		name: 'Isaac mboyo',
 		job: 'Développeur mobile',
 		picture: 'https://fierce-taiga-87212.herokuapp.com/images/5.jpeg',
 		skills: ['IOS', 'Android'],
